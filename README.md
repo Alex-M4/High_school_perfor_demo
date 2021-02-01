@@ -3,7 +3,8 @@
 New York City has published data on [student SAT scores](https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4) by high school, along with additional demographics data sets. 
 NYC has a significant immigration population and is very diverse, so comparing demographic factors such as race, income, and gender with SAT scores is a good way to determine whether the SAT is a fair test. 
 For analyze we will combined the following data sets into a single and clean it : 
--[SAT scores by school](https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4) : SAT scores for each high scool in NYC
+
+- [SAT scores by school](https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4) : SAT scores for each high scool in NYC
 
 - [School attendance](https://data.cityofnewyork.us/Education/School-Attendance-and-Enrollment-Statistics-by-Dis/7z8d-msnt) : Attendance inforation for each school in NYC
 
